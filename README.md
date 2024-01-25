@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RichardLiba
 - 👀 I’m interested in Kotlin, Android mobile development
-- 🌱 I’m currently learning Jetpack Compose for Android
+- 🌱 I’m currently learning Compose Multiplatform for Android and iOS
 
 <!---
 RichardLiba/RichardLiba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
